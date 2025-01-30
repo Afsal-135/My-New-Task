@@ -1,0 +1,4 @@
+def (*args):
+      print(sum(args))
+
+args(4,5)      
