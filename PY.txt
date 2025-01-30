@@ -3,3 +3,5 @@ def (welcome message)  :
 
 welcome message("welcome to luminar")      
 
+hi hello python
+
