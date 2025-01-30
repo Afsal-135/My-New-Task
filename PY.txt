@@ -1,4 +1,5 @@
-def (*args):
-      print(sum(args))
+def (welcome message)  :
+      print("hi {welcome message})  
 
-args(4,5)      
+welcome message("welcome to luminar")      
+
